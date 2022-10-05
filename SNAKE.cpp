@@ -15,7 +15,7 @@ int dl = 3, historiaWspolzednejX[10000],historiaWspolzednejY[10000];
 int ile = 0;
 int klawisz;
 char waz = 219, jedzenie = 177;
-char pd = 188, pg = 187, ld =200, lg = 201, poz = 209, pion = 186;
+char pd = 188, pg = 187, ld =200, lg = 201, poz = 205, pion = 186;
 char kierunek = 'p'; //p prawo l lewo g gora d dol
 char pole[30][30]; //przechowuje wartosci ktore nie sa tylko liczbami
 
